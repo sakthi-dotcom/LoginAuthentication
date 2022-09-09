@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578365976607",
+    "project_id": "loginauthentication-a78cd",
+    "storage_bucket": "loginauthentication-a78cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578365976607:android:b2fc01986415ccbcfb652a",
+        "android_client_info": {
+          "package_name": "com.example.loginauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578365976607-ie3kk72ptp6kc0rb5k3h9ggmfouduu8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8iofBKoexAj82u1hllNKBwpryar8N2DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578365976607-ie3kk72ptp6kc0rb5k3h9ggmfouduu8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
